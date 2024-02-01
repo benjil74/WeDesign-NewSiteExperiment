@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WeDesign-NewSiteExperiment/static/css/main.03be1a3a.css",
+    "main.js": "/WeDesign-NewSiteExperiment/static/js/main.e54cb72c.js",
+    "static/js/787.7bf2c030.chunk.js": "/WeDesign-NewSiteExperiment/static/js/787.7bf2c030.chunk.js",
+    "static/media/AdriannaExtended-DemiBold.ttf": "/WeDesign-NewSiteExperiment/static/media/AdriannaExtended-DemiBold.077232cb411dab1ab488.ttf",
+    "static/media/DinLight.ttf": "/WeDesign-NewSiteExperiment/static/media/DinLight.26c9fd9bc9f4bcfae251.ttf",
+    "static/media/KiroLight.otf": "/WeDesign-NewSiteExperiment/static/media/KiroLight.71494c0cb3c71feab695.otf",
+    "index.html": "/WeDesign-NewSiteExperiment/index.html",
+    "main.03be1a3a.css.map": "/WeDesign-NewSiteExperiment/static/css/main.03be1a3a.css.map",
+    "main.e54cb72c.js.map": "/WeDesign-NewSiteExperiment/static/js/main.e54cb72c.js.map",
+    "787.7bf2c030.chunk.js.map": "/WeDesign-NewSiteExperiment/static/js/787.7bf2c030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03be1a3a.css",
+    "static/js/main.e54cb72c.js"
+  ]
+}
